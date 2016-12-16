@@ -1,6 +1,7 @@
 # watchmaker-face-scripts
 A collection of background scripts for my Watchmaker faces.
 I've got a Huawei Watch, all my watch faces are designed for that resolution and shape.
+Files are not indented at all because Watchmaker's interpreter complains about any initial whitespace when I copy the scripts in. I've tried to keep the formatting clear via extra newlines to minimize confusion.
 
 
 # Text Clock
